@@ -1,1 +1,8 @@
 We are using "npm install react-icons" to get some free icons, check: https://react-icons.github.io/react-icons/
+
+"container" folder is not docker containers. In react we divide components into containers and presentational components.
+This is to divide View and Logic components.
+
+Container: Maintains state and data logic.
+Presentational: Focus on UI rendering logic. Receives data and callbacks from container components.
+-> This pattern was more common before React Hooks.
