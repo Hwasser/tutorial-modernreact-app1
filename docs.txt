@@ -1,0 +1,1 @@
+We are using "npm install react-icons" to get some free icons, check: https://react-icons.github.io/react-icons/
